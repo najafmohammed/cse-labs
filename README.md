@@ -30,6 +30,8 @@ View All At Once [here](https://github.com/ceadoor?utf8=%E2%9C%93&q=lab&type=&la
 
 ## [→ S6 Network-Programming-lab](https://github.com/ceadoor/Network-Programming-lab)
 
+## [→ S6 Network-Programming-lab(2020)](https://github.com/ceadoor/Network-Programming-lab)
+
 ## [→ S7 Computer-Graphics-lab](https://github.com/ceadoor/Computer-Graphics-lab)
 
 ## [→ S7 Compiler-Design-lab](https://github.com/ceadoor/Compiler-Design-lab)
